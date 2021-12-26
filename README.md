@@ -1,4 +1,12 @@
-### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapi327)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takapi327&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=takapi327)](https://github.com/ryo-ma/github-profile-trophy)
+
+### My blogs
+- [Medium](https://medium.com/@easygoing_mint_wombat_223)
 
 <!--
 **takapi327/takapi327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
