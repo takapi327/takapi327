@@ -5,8 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takapi327)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My blogs
-- [Medium](https://medium.com/@easygoing_mint_wombat_223)
+[![](https://img.shields.io/badge/Medium%20posts-10%20posts-brightgreen)](https://medium.com/@easygoing_mint_wombat_223)
 
 <!--
 **takapi327/takapi327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
